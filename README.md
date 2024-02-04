@@ -1,6 +1,7 @@
 # Social-Media-Analysis
 Credibility of Scientific Information on social media, BI Reporting and Dashboard Design 
 
+Tableau Public : https://public.tableau.com/app/profile/richa.mishra7167/viz/Social_Media_Analysis_17070802601820/FinalDashboard
 
 OBJECTIVE
 
